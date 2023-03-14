@@ -1,2 +1,0 @@
-# TrabajosLaboratorio
-Trabajos de laboratorio
